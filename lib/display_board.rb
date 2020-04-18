@@ -9,4 +9,4 @@ end
 display_board
 
 board[5] = "X"
-display_board(board[5] = "X")
+display_board(board[5])

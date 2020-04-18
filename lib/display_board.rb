@@ -8,4 +8,4 @@ end
 
 display_board
 
-display_board("X")
+display_board(board, board[5] = "X")

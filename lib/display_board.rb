@@ -1,9 +1,9 @@
-def display_board(board = ["X", "X", "X" ,"O" ,"O" ,"O", "X", "O", "X"])
-  puts " X | X | X "
+def display_board(board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
+  puts "   |   |   "
   puts "-----------"
-  puts " O | O | O "
+  puts "   |   |   "
   puts "-----------"
-  puts " X | O | X "
+  puts "   |   |   "
 end
 
 display_board
